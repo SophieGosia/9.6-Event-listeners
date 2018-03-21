@@ -1,3 +1,3 @@
-JS - podstawy lekcja 9
+9.6 - Event listeners in JS
 
-https://sophiegosia.github.io/js-2/
+https://codepen.io/sophie_gosia/pen/PRmGOP?editors=1111
