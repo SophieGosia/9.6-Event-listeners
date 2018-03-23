@@ -11,5 +11,4 @@ add.addEventListener('click', function(e) {
 	var number =  elementsTagLi.length;
 	element.innerHTML += number;
 	list.appendChild(element);
-
-  });
+});
