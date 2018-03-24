@@ -7,8 +7,10 @@ add.addEventListener('click', function(e) {
 
 	var elementsTagLi = document.getElementsByTagName('li');
 	var element = document.createElement('li');
-	element.innerHTML = 'item ';
 	var number =  elementsTagLi.length;
+	
+	element.innerHTML = 'item ';
 	element.innerHTML += number;
+
 	list.appendChild(element);
 });
